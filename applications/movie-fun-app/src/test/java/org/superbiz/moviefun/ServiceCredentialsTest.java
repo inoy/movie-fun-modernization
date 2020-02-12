@@ -1,10 +1,9 @@
-package test.superbiz.cloudfoundry;
+package org.superbiz.moviefun;
 
 import org.junit.Test;
 
 import static org.hamcrest.core.IsEqual.equalTo;
 import static org.junit.Assert.*;
-import org.superbiz.cloudfoundry.ServiceCredentials;
 
 public class ServiceCredentialsTest {
     @Test
